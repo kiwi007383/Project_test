@@ -1,5 +1,5 @@
 body{
-    background-color: gray;
+    background-color: rgb(43, 40, 40);
 }
 
 .a{
@@ -8,4 +8,8 @@ body{
 
 h1{
     color: greenyellow;
+}
+
+img{
+    width: 450px;
 }
